@@ -2,96 +2,114 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Van-Tuan Tran
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th November 1997
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Engineering
+      institution: Ho Chi Minh City University of Technology, Vietnam
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: "Thesis: Customer experience enhancement by Face and Emotion recognition."
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Facial Recognition and Emotion Recognition have received a great deal of attention among communities due to its potential applications in society, such as  automobile security, access control, education, and healthcare. In the scope of my thesis, I focus on improving customers’ experience based on these two techniques. The idea stems from the inconvenience of verifying my individual identity through using an application on my phone whenever visiting coffee shops. As a way to alleviate this problem, with the availability of CCTV cameras in coffee shops, I proposed a real-time application that can automatically determine customers’ identity by face recognition and measure customers’ feedback by emotion recognition. I utilized MTCNN for both face detection and face alignment, FaceNet for disentangled features extracting and AlexNet-inspired CNNs for emotion recognition.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: VinUni-Illinois Smart Health Center, VinUniversity, Vietnam
+      year: Jan 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Supervised by Prof. Kok-Seng Wong.
+        - title: Personalized Privacy-Preserving Federated Learning.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Propose  a framework incorporating differentially private GANs into optimization-based meta learning to prevent sensitive information disclosure and address non-IID data problems.
+            - Introduce a stabilized version of MAML that is more easily convergent.
+            - Currently writing a manuscript being under review at IEEE Transactions on Emerging Topics in Computing.
+    - title: Research Intern
+      institution: Medical Imaging Center - Vingroup BigData Institute, Vietnam
+      year: Oct 2020 - Nov 2021
       description:
-        - Description 1.
-        - Description 2.
+        - title: Learning from multiple annotators.
+          contents:
+              - Propose an approach for abnormal detection in ChestX-ray images by estimating the actual hidden labels from multiple ones and using a re-weighted loss function.
+              - Publish a paper at <a href="https://ieeexplore.ieee.org/document/10041153/">IEEE Access, First Author</a>
+        - title: MRI Pulse Sequence Classification.
+          contents:
+              - Build DL-based approach to classify brain MRI scans into different pulse sequence types and deploy it into an open source package.
+              - The package is available at <a href="https://pypi.org/project/brainmri-ps/">MRI-Pulse-Sequence</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Scientist
+      institution: AI Lab, MTI Technology Vietnam.
+      year: Jan 2022 - Present
       description:
+          - title: AI-Robotics Platform for Remote Hand Palpation.
+            contents:
+              - Build a point-of-care hand palpation system.
+              - Analyze data and build Deep Learning (DL)-based algorithms for 3D hands modeling and keypoints analysis.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Machine Learning Engineer
+      institution: CB/I Digital Inc. Vietnam
+      year: Sep 2019 - Oct 2020
+      description:
+        - title: Automated Campaign Management.
+          contents:
+            - Build time-series forecasters for a B2B SaaS product that helps marketers to automate the budget allocation and keywords bidding tasks in digital marketing campaigns.
+            - The application is available at <a href="https://getplaymaker.com/">CBI Digital Inc. PlayMaker</a>
+        - title: Customer Segmentation.
+          contents:
+            - Build DL models for skeleton-based pose estimation to avoid bad postures and injuries.
+            - The application is available at <a href="https://thereadystate.com/">The Ready State</a>
+
+    - title: Machine Learning Engineer
+      institution: CBD Robotics, Vietnam
+      year: Sep 2020 - Jan 2021
+      description:
+          - title: Lung Cancer Diagnosis.
+            contents:
+              - Build DL-based solution for lung cancer diagnosis from CT scans and deploy via REST API with flask
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://pypi.org/project/brainmri-ps/">MRI-Pulse-Sequence</a>
+      year: 2021-now
+      description:  A machine learning based tool to automatically classify Brain MRI series into different pulse sequence types (T1C, T2, ADC, FLAIR, etc.) and extract the corresponding images.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 2021
+#      items:
+#        - Merit
+#    - year: 2020
+#      items:
+#        - Machine Learning Course 5
+#        - Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Trustworthy AI.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Building AI systems that are privacy-preserving, explainable, and robust.
+    - title: Self-supervised learning.
       items:
-        - Description 1.
-        - Description 2.
+        - Leverage unlabeled data to enhance learning capability of ML models.
+    - title: Computer Vision.
+      items:
+        - Image classification, object detection, segmentation, etc.
+    - title: Federated Learning.
+      items:
+        - Distributed learning with privacy-preserving and non-IID data.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-01-10 04:20:00-0000
 inline: true
 ---
 
-A simple inline announcement.
+I join [VinUni-Illinois Smart Health Centre](https://smarthealth.vinuni.edu.vn/) as a Research Assistant to work on the project of **Privacy-Preserving, Robust, and Explainable Federated Learning Framework for Healthcare System** under the supervision of Prof. [Kok-Seng Wong](https://vinuni.edu.vn/people/kok-seng-wong/).

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-11-09 08:50:00-0000
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I join [Vingroup Big Data Institute](https://vinbigdata.com/en/) to work as a Research Intern on the project **Learning from multiple annotators** under the supervision of [Dr. Hieu Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en) and [Dr. Ha Nguyen](https://scholar.google.com/citations?user=ELjIUyAAAAAJ&hl=en). 
