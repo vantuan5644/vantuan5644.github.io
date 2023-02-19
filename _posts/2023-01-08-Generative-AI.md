@@ -6,7 +6,7 @@ description: A brief introduction to Generative Models
 tags: sharing, generative, AI
 categories: sharing
 ---
-Last week, I talk on Generative Models under Business Perspective at the [TECH Meetup - AI and Data Science edition!](https://www.meetup.com/tech-meetup/events/290061095/). The slides are available [here](https://docs.google.com/presentation/d/1mGl4wzO-P0Io9QTXpTA_73V99x2oXj09_XoswfrKzBo).
+Last week, I gave a talk about Generative Models under Business Perspective at the [TECH Meetup - AI and Data Science edition!](https://www.meetup.com/tech-meetup/events/290061095/). The slides are available [here](https://docs.google.com/presentation/d/1mGl4wzO-P0Io9QTXpTA_73V99x2oXj09_XoswfrKzBo).
 
 #### Abstract
 Recently, generative models have become increasingly popular and are often touted as the "next big thing" in AI and machine learning. However, the hype around these models can be misleading and may obscure their true capabilities and limitations.
