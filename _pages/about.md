@@ -22,6 +22,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Van-Tuan Tran, a Vietnamese individual who has undergone a stochastic journey towards pursuing a career in Data Science and Machine Learning. At present, I am a Research Assistant at VinUniversity, where my focus is centered on rendering deep-black-box models more transparent and trustworthy.
+[//]: # (My name is Van-Tuan Tran, a Vietnamese individual who has undergone a stochastic journey towards pursuing a career in Data Science and Machine Learning. At present, I am a Research Assistant at VinUniversity, where my focus is centered on rendering deep-black-box models more transparent and trustworthy.)
 
-I am actively seeking a PhD position in the area of Self-supervised Learning, Federated Learning, and Trustworthy AI. In addition, I remain open to exploring other research positions relating to Uncertainty Estimation and Deep Learning for Computer Vision.
+[//]: # ()
+[//]: # (I am actively seeking a PhD position in the area of Self-supervised Learning, Federated Learning, and Trustworthy AI. In addition, I remain open to exploring other research positions relating to Uncertainty Estimation and Deep Learning for Computer Vision.)
+
+My name is Van-Tuan Tran, a Vietnamese individual who has undergone a stochastic journey towards pursuing a career in Data Science and Machine Learning. At present, I am a PhD student at Trinity College Dublin, where my focus is centered on Federated Learning.
